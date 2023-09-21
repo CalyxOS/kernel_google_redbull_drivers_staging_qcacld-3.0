@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1484727_667faaf1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-21T15:13:56Z",
+      "side": 1,
+      "message": "https://gitlab.com/CalyxOS/kernel_google_redbull_drivers_staging_qcacld-3.0/-/commit/c72d76d470544c4ab604ddc784514a24204150bb",
+      "revId": "cfa09503073cd0a9dcb1b2d1cf069ab2e0122ef8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
