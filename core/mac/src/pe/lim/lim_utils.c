@@ -1874,7 +1874,7 @@ static void __lim_process_channel_switch_timeout(struct pe_session *pe_session)
 		 * other AP once it disconnects.
 		 */
 		pe_err("Invalid channel freq %u Ignore CSA request",
-		       channel_freq);
+		       channel);
 		return;
 	}
 	switch (pe_session->gLimChannelSwitch.state) {
