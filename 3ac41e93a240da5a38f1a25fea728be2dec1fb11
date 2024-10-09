@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37d5db8d_16746acd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-10-09T14:54:50Z",
+      "side": 1,
+      "message": "According to new bug reports, this now cripples wifi speed on WPA3 networks",
+      "revId": "3ac41e93a240da5a38f1a25fea728be2dec1fb11",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
